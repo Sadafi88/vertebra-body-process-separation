@@ -143,3 +143,13 @@ This is a classical image processing approach and may require adjustment for:
 ## License
 
 MIT License
+
+## Example Result
+
+The figure below shows vertebral body and posterior process separation results on a spine CT scan.
+
+![Example Result](examplesresult.png)
+
+**Left:** sagittal CT view with separated vertebral bodies and posterior elements.
+
+**Right:** 3D visualization of the resulting segmentation.
